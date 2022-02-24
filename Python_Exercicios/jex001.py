@@ -1,0 +1,5 @@
+de = int(input(('Insira a quantidade de dias que você vai estudar por mês: ')))
+dm = int(input("Insira a quantidade de meses de estudo: "))
+hc = float (input('Insira o valor total de horas do curso: '))
+hf = hc / (de * dm)
+print('O total de horas para estudar de segunda a sexta até o final da faculdade é de {:.2f}hrs'.format(hf))
