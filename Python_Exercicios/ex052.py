@@ -1,3 +1,4 @@
+#PRogram que verifica se um numero é primo
 num = int(input('Digite um número: '))
 tot = 0
 for c in range(1, num +1 ):
