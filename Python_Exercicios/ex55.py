@@ -1,4 +1,4 @@
-#Programa que verifica qual quem tem o maior e o menor peso
+#Programa que verifica quem tem o maior e o menor peso
 maior = 0
 menor = 0
 for pess in range(1, 6):
