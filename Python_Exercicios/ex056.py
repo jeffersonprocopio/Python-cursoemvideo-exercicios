@@ -1,3 +1,4 @@
+#Programa do ex 056 do curso em video de curso de python
 somaid = 0
 media  = 0
 maioridadehomem = 0
